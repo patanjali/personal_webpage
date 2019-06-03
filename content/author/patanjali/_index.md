@@ -88,7 +88,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 Hi,
-I am Ph.D student at IIT Madras advised by Dr. V. Kamakoti. I am affiliated with RISE Lab in the Computer Science Department.
+I am  a Ph.D student at IIT Madras advised by Dr. V. Kamakoti. I am affiliated with RISE Lab in the Computer Science Department.
 
 I like to work on problems related to energy efficient computing, harware security and computer architecture. My passion to teach and I hope to join the academia eventually. My hobbies are reading books and photography. I am always looking for collaborations, so feel free to contact me.  
 
