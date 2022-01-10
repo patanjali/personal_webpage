@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Patanjali SLPSK"
+title = "Patanjali SLPSK"
 
 # Username (this should match the folder name)
 authors = ["patanjali"]
@@ -9,23 +9,23 @@ authors = ["patanjali"]
 superuser = true
 
 # Role/position
-role = "Ph.D. student"
+role = "Postdoctoral Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Indian Institute of Technology, Madras", url = "https://www.iitm.ac.in" } ]
+organizations = [ { name = "University of Florida", url = "https://www.ufl.edu/" },{name="Warren B Nelms Institute for Connected World", url="http://iot.institute.ufl.edu/about/warren-b-nelms/"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include energy efficient computing and hardware security."
+bio = "I like working on problems related to Hardware security,and energy efficient computing"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "patanjal.sristil@ufl.edu"
 
 # List (academic) interests or hobbies
 interests = [
   "Energy efficient Computing",
   "Hardware Security",
-  "Computer Architecture"
+  "Computer Architecture",
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "IIT Madras"
-  year = 2019
+  year = 2020
 
 [[education.courses]]
   course = "MS in Computer Science"
@@ -56,7 +56,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:patanjali.slpsk@gmail.com".
+  link = "#contact"  # For a direct email link, use "mailto:patanjal.sristil@ufl.edu".
 
 [[social]]
   icon = "twitter"
@@ -88,7 +88,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 Hi,
-I am  a Ph.D student at IIT Madras advised by Dr. V. Kamakoti. I am affiliated with RISE Lab in the Computer Science Department.
+I am a postdoctoral researcher at University of Florida where I work with Dr. Swarup Bhunia. I am affliated with the Warren B Nelms Institute at the Electrical Engineering Department. I did my Ph.D at IIT Madras, where I was advised by Dr. V. Kamakoti. I am affiliated with RISE Lab in the Computer Science Department.
 
-I like to work on problems related to energy efficient computing, harware security and computer architecture. My passion to teach and I hope to join the academia eventually. My hobbies are reading books and photography. I am always looking for collaborations, so feel free to contact me.  
+I like to work on problems related to energy efficient computing, harware security and computer architecture. I am open for collaborations in this area. Please feel free to reach out and contact me in this regard. 
+I like teaching and I hope to join academia eventually. Apart from my research activities, I like reading books, building Legos, and photography.
 

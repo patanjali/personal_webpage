@@ -18,6 +18,29 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+
+
+[[item]]
+organiztion= "CSAW 2020"
+title="Winner and Second Runner up (along with Gargi Mitra and Prasanna Karthik Vairam) in CSAW 2020 Applied Research Competition"
+url="https://www.iitk.ac.in/new/cyber-security-awareness-worldwide-csaw-2020"
+date_start="2020-07-24"
+
+
+
+[[item]]
+organiztion= "DAC"
+title="My Thesis was selected for presentation at the DAC PhD Forum"
+date_start="2020-07-24"
+
+[[item]]
+organiztion= "Department of Science and Technology, India"
+url="https://www.awsar-dst.in/2019/result2019"
+title="My write-up on my ICCAD work was selected as one of the top 100 entries in scientific writing by the Govt. of India"
+date_start="2019-06-02"
+
 [[item]]
 organiztion= "DAC"
 title="Richard Newton Young Fellow"
@@ -31,32 +54,18 @@ date_start="2019-04-21"
 
 [[item]]
   organization = "Shaastra"
- # organization_url = ""
   title = "Winner Student Research Presentation"
- # url = ""
- # certificate_url = "https://www.coursera.org"
   date_start = "2018-01-03"
- # date_end = ""
   description = ""
 
 [[item]]
   organization = "New York University"
- # organization_url = "https://www.edx.org"
   title = "Winner Embedded Systems Challenge, CyberSecurity Awareness Week, 2016"
-#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#  certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
-#  date_end = ""
-#  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
   organization = "Yahoo Hacku"
-#  organization_url = "https://www.datacamp.com"
   title = "Winner Second place Yahoo Hacku 2013" 
-#  url = ""
-#  certificate_url = "https://www.datacamp.com"
   date_start = "2013-07-02"
-# date_end = "2017-12-21"
-#  description = ""
 
 +++

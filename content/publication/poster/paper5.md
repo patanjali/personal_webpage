@@ -6,11 +6,15 @@ draft = false
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["ML for EDA", "Energy Efficient Computing"]
-categories = []
+categories = ["Poster"]
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Poster
-publication_types=["3"]
+publication_types=["9"]
+url_pdf="files/dac2019.pdf"
+abstract = "Side-channel attacks pose a serious threat to the security of embedded devices. Most available countermeasures have significant overheads and very often do not meet an application’s requirement of low-power, high-performance, and small-area. In this paper we propose an algorithm called Karna that can be incorporated in the Electronic Design Automation (EDA) flow, in order to significantly improve the side-channel security of a device, without compromising on the other device characteristics of power, performance, and area. Karna achieves this by first identifying vulnerable gates in the design and then reconfiguring these gates to increase side-channel resistance. Unlike contemporary works, Karna does not require any specialized gate library but uses the gates available in the standard cell library. We integrate Karna into the Synopsys Design Compiler and demonstrate its efficacy at reducing side-channel leakage in implementations of AES, PRESENT and Simon block ciphers, synthesized for a 28nm technology node. We show that our proposed approach is able to reduce the power side-channel of the designs while incurring no penalty in delay, power and gate-count. Our proposed approach incurs a 20% penalty in the area utilization while the total area of the design remains constant."
+authors = ["Patanjali SLPSK", "Prasanna Karthik", "Chester Rebeiro", "Kamakoti Veezhinathan"]
+publication = "Design Automation Conference (Work-in-Progress)"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
@@ -21,8 +25,6 @@ publication_types=["3"]
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 
-abstract = "The timing constrained discrete sizing technique (TC-DSP) is employed at all stages of the physical synthesis flow and has been studied extensively over the last 30 years. The ISPD gate sizing contests introduced industry standard benchmarks and library which motivated a lot of research in this area. However most of the solutions employed were either sensitivity driven or based on analytical methods that required incremental timing analysis after every iteration with both consuming a significant amount of time to perform the optimization. The key observations reported in this paper are i) there exists a good correlation between the slack distribution among gates in a given iteration and the order of gate replacements in subsequent iterations; and, ii) across the benchmark circuits there exists significant overlap in the number of sub-circuits that have similar structures. This paper exploits the above observations to propose MLTimer, an iterative algorithm that uses adaptive lazy timing analysis in conjunction with a Support Vector Machine (SVM) engine for solving the TC-DSP quickly and efficiently. We observe that for large benchmark circuits (≥ 200,000) our proposed solution reduces the leakage power by 3% and the running time by over 50% when compared to the best reported heuristic in the literature. This significant decrease in running time is very useful to the industry for achieving timing and power closures of large designs within a given deadline."
-authors = ["Patanjali SLPSK", "Prasanna Karthik", "Chester Rebeiro", "Kamakoti Veezhinathan"]
 date = "2018-06-01"
 image = ""
 image_preview = ""

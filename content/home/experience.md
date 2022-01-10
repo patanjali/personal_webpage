@@ -23,8 +23,8 @@ date_format = "Jan 2006"
 #  company_url = ""
 #  location = "California"
   date_start = "2014-05-01"
-#  date_end = ""
-#  description = """
+  date_end = "2019-10-31"
+  #  description = """
 #  Responsibilities include:
   
 #  * Analysing
